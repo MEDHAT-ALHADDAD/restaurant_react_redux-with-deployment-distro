@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.Reducer=exports.initalState=void 0;var initalState={dishes:DISHES,comments:COMMENTS,promotions:PROMOTIONS,leaders:LEADERS};exports.initalState=initalState;var Reducer=function(e,t){return 0<arguments.length&&void 0!==e?e:initalState};exports.Reducer=Reducer;

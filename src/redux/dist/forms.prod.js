@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.InitialFeedback=void 0;var InitialFeedback={firstname:"",lastname:"",telnum:"",email:"",agree:!1,contactType:"Tel.",message:""};exports.InitialFeedback=InitialFeedback;

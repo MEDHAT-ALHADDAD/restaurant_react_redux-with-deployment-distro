@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.Leaders=void 0;var _leaders=require("../shared/leaders"),Leaders=function(e,r){var s=0<arguments.length&&void 0!==e?e:_leaders.LEADERS;return(1<arguments.length?r:void 0).type,s};exports.Leaders=Leaders;
